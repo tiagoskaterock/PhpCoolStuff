@@ -1,0 +1,10 @@
+Importe os dois arquivos 
+
+StoreHours.class.php
+StoreHours.php
+
+NAO mexer no aquivo .class
+
+Mudar as alterações, já facilmente presonalizáveis em StoreHours.php
+
+A instância do objeto já está feita em StoreHours.php, só precisa imprimir na página
